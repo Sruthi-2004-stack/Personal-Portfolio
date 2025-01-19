@@ -1,0 +1,30 @@
+{
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
+        },
+        {
+            "title": "Resume",
+            "href": "https://docs.google.com/document/d/1Zvt8w5zJbgRBYlHlXpWR_Bd0P5_rv9X5/edit",
+            "type": "link"
+        }
+    ]
+
+}

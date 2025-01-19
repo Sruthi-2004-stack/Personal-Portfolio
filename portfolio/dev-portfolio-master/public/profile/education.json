@@ -1,0 +1,17 @@
+{
+    "education":[
+        {
+            "title": "Jun 2022 - Jun 2026",
+            "cardTitle": "B.Tech, Information Technology",
+            "cardSubtitle":"SRKR Engineering College, Bhimavaram",
+            "cardDetailedText": "CGPA - 8.96"
+           
+        },
+        {
+            "title": "April 2020",
+            "cardTitle": "Intermediate",
+            "cardSubtitle":"Tirumala Junior College",
+            "cardDetailedText": "Marks - 96.0%"
+        }
+    ]
+}

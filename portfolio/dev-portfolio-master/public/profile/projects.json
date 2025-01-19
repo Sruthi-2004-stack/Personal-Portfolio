@@ -1,0 +1,57 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio.png",
+            "title": "Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            
+            
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/weather.jpeg",
+            "title": "Weather Prediction App",
+            "bodyText": "- The project uses HTML and CSS to create a responsive and user-friendly design.\n - It integrates APIs to fetch and display dynamic data from external sources.\n - React JS powers the frontend, while Django handles the backend, ensuring a robust full-stack solution.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vasavi674/Weather-prediction-Application"
+                }
+            ],
+            "tags" : [
+                "HTMl",
+                "CSS",
+                "REACT JS",
+                "API",
+                "Django"
+            ]
+        },
+        {
+            "image" : "images/projects/crud.jpeg",
+            "title": "CRUD App",
+            "bodyText": "- CRUD Application built with React\n - Create, Read, Update, and Delete data in a seamless and interactive way.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/vasavi674/CRUD-Application"
+                }
+            ],
+            "tags" : [
+                "Django",
+                "react JS",
+                "sql lite3"
+                
+            ]
+        }
+        
+        
+       
+    
+            
+        
+    ]
+}
